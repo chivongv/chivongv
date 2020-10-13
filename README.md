@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chi Vong from Sweden. I'm currently a Front-End Developer with the goal to become Fullstack Developer. Until then, I will continue to learn and challenge myself.
+I'm Chi Vong from Sweden.
 
 - 🌱 I’m currently learning Next.js and code testing with Jest and Cypress
 - 💻 I work with this tech: ReactJS, GatsbyJS, Next.js, GraphQL, TypeScript, Storybook
