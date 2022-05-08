@@ -8,7 +8,7 @@ I'm Chi Vong from Linköping, Sweden.
 - 😁 I really enjoy: eating delicious food, watching sci-fi movies, traveling and learning new things
 - 🌴 When I'm not coding: I go to the gym, for a walk or hanging out with friends
 
-### Skills
+### Some technologies I'm working with
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
